@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style="display: inline_block"><br>
-👾 My name is Arthur, I'm 17 years old and I think it's amazing how we can create everything from scratch with programming<br>
+👾 My name is Arthur, I'm 18 years old and I think it's amazing how we can create everything from scratch with programming<br>
 🧙‍♂️ I spend most of my time developing and studying <br>
 👨‍🎓 I am currently studying Front-End at Flit Education.<br>
 🚀 I'm very focused on getting the first job as a React Front-End dev
